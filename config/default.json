@@ -1,0 +1,18 @@
+{
+  "server": {
+    "port": 7122
+  },
+  "app": {
+    "prefix": "/web/viewMap",
+    "secret": ""
+  },
+  "db": {
+    "sql_db": "hr_common",
+    "host": "10.26.25.26",
+    "user": "hr_common_rw",
+    "password": "lJlAzgkOrW"
+  },
+  "api": {
+    
+  }
+}

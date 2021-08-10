@@ -1,0 +1,15 @@
+{
+  "server": {
+    "port": 7122
+  },
+  "app": {
+    "prefix": "/web/viewMap",
+    "secret": ""
+  },
+  "db": {
+    "sql_db": "YCW",
+    "host": "10.26.24.24",
+    "user": "ycwadmin",
+    "password": "ycwadmindev"
+  }
+}
